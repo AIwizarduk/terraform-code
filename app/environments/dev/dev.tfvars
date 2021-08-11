@@ -3,10 +3,10 @@
 ############################################################################
 region              = "eu-west-2"
 app_name            = "talentegra"
-tf_state_bucket     = "put here"
-tf_state_bucket_key = "put here"
+tf_state_bucket     = "vishnubucket11"
+tf_state_bucket_key = "vishnubucket11"
 tr_environment_type = "DEVELOPMENT"
-tr_resource_owner   = "support@digitalq.co.in"
+tr_resource_owner   = "ismail@digitalq.co.in"
 
 ############################################################################
 # Autoscaling tfvars
